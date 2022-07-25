@@ -1,11 +1,3 @@
-# 1.	Clone MNE-Python
-#           VCS > get from version control…
-#           https://github.com/Zahra-M-Aghajan/mne-python.git
-# 2.	Git > Branch > features/td-nirs_snirf > Checkout
-# 3.	Open Python Console
-# 4.	In Terminal: pip install -e .
-# 5.	Add “.snirf” file to the PycharmProjects/mne-python folder
-
 import numpy as np
 import matplotlib.pyplot as plt
 from mne.io.snirf import read_raw_snirf
